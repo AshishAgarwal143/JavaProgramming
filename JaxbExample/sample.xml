@@ -1,0 +1,3844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductAssets>
+    <source id_1="Seller_66786" jobId="CA63356A-6C7B-41AB-9A79-346ED9DD62CB"/>
+    <assets>
+        <asset id="110-6884" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/110-6884_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>110/110-6884/Large</destinationRelativePath>
+            <AssetName>110-6884_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_110-6884_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="110-6884" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/110-6884_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>110/110-6884/Large</destinationRelativePath>
+            <AssetName>110-6884_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_110-6884_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="110-6884" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/110-6884_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>110/110-6884/Large</destinationRelativePath>
+            <AssetName>110-6884_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_110-6884_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="136-1048" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/136-1048_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>136/136-1048/Large</destinationRelativePath>
+            <AssetName>136-1048_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_136-1048_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="136-1048" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/136-1048_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>136/136-1048/Large</destinationRelativePath>
+            <AssetName>136-1048_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_136-1048_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="136-1048" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/136-1048_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>136/136-1048/Large</destinationRelativePath>
+            <AssetName>136-1048_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_136-1048_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="136-1048" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/136-1048_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>136/136-1048/Large</destinationRelativePath>
+            <AssetName>136-1048_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_136-1048_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="136-1048" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/136-1048_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>136/136-1048/Large</destinationRelativePath>
+            <AssetName>136-1048_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_136-1048_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="136-1048" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/136-1048_PI_66786MN.JPG</sourcePath>
+            <destinationRelativePath>136/136-1048/Large</destinationRelativePath>
+            <AssetName>136-1048_PI_66786MN.JPG</AssetName>
+            <OriginalName>P_136-1048_MN.JPG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="140-3581" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/140-3581_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>140/140-3581/Large</destinationRelativePath>
+            <AssetName>140-3581_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_140-3581_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="140-3581" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/140-3581_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>140/140-3581/Large</destinationRelativePath>
+            <AssetName>140-3581_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_140-3581_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="140-3581" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/140-3581_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>140/140-3581/Large</destinationRelativePath>
+            <AssetName>140-3581_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_140-3581_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="140-3581" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/140-3581_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>140/140-3581/Large</destinationRelativePath>
+            <AssetName>140-3581_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_140-3581_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="169-3640" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/169-3640_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>169/169-3640/Large</destinationRelativePath>
+            <AssetName>169-3640_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_169-3640_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="169-3640" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/169-3640_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>169/169-3640/Large</destinationRelativePath>
+            <AssetName>169-3640_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_169-3640_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="169-3640" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/169-3640_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>169/169-3640/Large</destinationRelativePath>
+            <AssetName>169-3640_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_169-3640_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="169-3640" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/169-3640_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>169/169-3640/Large</destinationRelativePath>
+            <AssetName>169-3640_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_169-3640_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="169-3640" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/169-3640_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>169/169-3640/Large</destinationRelativePath>
+            <AssetName>169-3640_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_169-3640_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="169-3640" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/169-3640_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>169/169-3640/Large</destinationRelativePath>
+            <AssetName>169-3640_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_169-3640_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="180-1197" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/180-1197_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>180/180-1197/Large</destinationRelativePath>
+            <AssetName>180-1197_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_180-1197_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="180-1197" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/180-1197_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>180/180-1197/Large</destinationRelativePath>
+            <AssetName>180-1197_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_180-1197_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="180-1197" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/180-1197_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>180/180-1197/Large</destinationRelativePath>
+            <AssetName>180-1197_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_180-1197_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="180-1197" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/180-1197_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>180/180-1197/Large</destinationRelativePath>
+            <AssetName>180-1197_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_180-1197_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="195-2873" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/195-2873_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>195/195-2873/Large</destinationRelativePath>
+            <AssetName>195-2873_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_195-2873_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="195-2873" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/195-2873_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>195/195-2873/Large</destinationRelativePath>
+            <AssetName>195-2873_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_195-2873_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="195-2873" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/195-2873_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>195/195-2873/Large</destinationRelativePath>
+            <AssetName>195-2873_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_195-2873_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="195-2873" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/195-2873_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>195/195-2873/Large</destinationRelativePath>
+            <AssetName>195-2873_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_195-2873_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="195-2873" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/195-2873_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>195/195-2873/Large</destinationRelativePath>
+            <AssetName>195-2873_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_195-2873_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="195-2873" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/195-2873_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>195/195-2873/Large</destinationRelativePath>
+            <AssetName>195-2873_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_195-2873_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="203-0601" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/203-0601_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>203/203-0601/Large</destinationRelativePath>
+            <AssetName>203-0601_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_203-0601_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="203-0601" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/203-0601_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>203/203-0601/Large</destinationRelativePath>
+            <AssetName>203-0601_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_203-0601_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="205-7096" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/205-7096_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>205/205-7096/Large</destinationRelativePath>
+            <AssetName>205-7096_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_205-7096_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="205-7096" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/205-7096_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>205/205-7096/Large</destinationRelativePath>
+            <AssetName>205-7096_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_205-7096_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="228-2904" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/228-2904_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>228/228-2904/Large</destinationRelativePath>
+            <AssetName>228-2904_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_228-2904_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="228-2904" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/228-2904_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>228/228-2904/Large</destinationRelativePath>
+            <AssetName>228-2904_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_228-2904_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="228-2904" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/228-2904_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>228/228-2904/Large</destinationRelativePath>
+            <AssetName>228-2904_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_228-2904_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="228-2904" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/228-2904_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>228/228-2904/Large</destinationRelativePath>
+            <AssetName>228-2904_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_228-2904_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="228-2904" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/228-2904_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>228/228-2904/Large</destinationRelativePath>
+            <AssetName>228-2904_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_228-2904_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="228-2904" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/228-2904_PI_66786MN.JPG</sourcePath>
+            <destinationRelativePath>228/228-2904/Large</destinationRelativePath>
+            <AssetName>228-2904_PI_66786MN.JPG</AssetName>
+            <OriginalName>P_228-2904_MN.JPG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="262-3699" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/262-3699_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>262/262-3699/Large</destinationRelativePath>
+            <AssetName>262-3699_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_262-3699_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="262-3699" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/262-3699_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>262/262-3699/Large</destinationRelativePath>
+            <AssetName>262-3699_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_262-3699_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="262-3699" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/262-3699_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>262/262-3699/Large</destinationRelativePath>
+            <AssetName>262-3699_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_262-3699_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="270-3011" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/270-3011_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>270/270-3011/Large</destinationRelativePath>
+            <AssetName>270-3011_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_270-3011_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="270-3011" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/270-3011_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>270/270-3011/Large</destinationRelativePath>
+            <AssetName>270-3011_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_270-3011_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="270-3011" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/270-3011_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>270/270-3011/Large</destinationRelativePath>
+            <AssetName>270-3011_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_270-3011_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-6940" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-6940_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>320/320-6940/Large</destinationRelativePath>
+            <AssetName>320-6940_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_320-6940_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-6940" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-6940_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>320/320-6940/Large</destinationRelativePath>
+            <AssetName>320-6940_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_320-6940_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-6940" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-6940_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>320/320-6940/Large</destinationRelativePath>
+            <AssetName>320-6940_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_320-6940_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-6940" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-6940_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>320/320-6940/Large</destinationRelativePath>
+            <AssetName>320-6940_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_320-6940_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-6940" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-6940_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>320/320-6940/Large</destinationRelativePath>
+            <AssetName>320-6940_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_320-6940_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-6940" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-6940_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>320/320-6940/Large</destinationRelativePath>
+            <AssetName>320-6940_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_320-6940_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-9226" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-9226_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>320/320-9226/Large</destinationRelativePath>
+            <AssetName>320-9226_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_320-9226_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="320-9226" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/320-9226_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>320/320-9226/Large</destinationRelativePath>
+            <AssetName>320-9226_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_320-9226_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="346-9089" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/346-9089_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>346/346-9089/Large</destinationRelativePath>
+            <AssetName>346-9089_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_346-9089_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="346-9089" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/346-9089_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>346/346-9089/Large</destinationRelativePath>
+            <AssetName>346-9089_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_346-9089_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="346-9089" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/346-9089_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>346/346-9089/Large</destinationRelativePath>
+            <AssetName>346-9089_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_346-9089_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="348-2509" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/348-2509_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>348/348-2509/Large</destinationRelativePath>
+            <AssetName>348-2509_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_348-2509_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="348-2509" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/348-2509_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>348/348-2509/Large</destinationRelativePath>
+            <AssetName>348-2509_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_348-2509_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="348-2509" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/348-2509_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>348/348-2509/Large</destinationRelativePath>
+            <AssetName>348-2509_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_348-2509_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="348-2509" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/348-2509_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>348/348-2509/Large</destinationRelativePath>
+            <AssetName>348-2509_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_348-2509_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="348-2509" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/348-2509_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>348/348-2509/Large</destinationRelativePath>
+            <AssetName>348-2509_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_348-2509_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="348-2509" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/348-2509_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>348/348-2509/Large</destinationRelativePath>
+            <AssetName>348-2509_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_348-2509_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="358-7181" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/358-7181_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>358/358-7181/Large</destinationRelativePath>
+            <AssetName>358-7181_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_358-7181_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="358-7181" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/358-7181_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>358/358-7181/Large</destinationRelativePath>
+            <AssetName>358-7181_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_358-7181_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="364-1675" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/364-1675_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>364/364-1675/Large</destinationRelativePath>
+            <AssetName>364-1675_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_364-1675_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="364-1675" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/364-1675_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>364/364-1675/Large</destinationRelativePath>
+            <AssetName>364-1675_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_364-1675_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="364-1675" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/364-1675_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>364/364-1675/Large</destinationRelativePath>
+            <AssetName>364-1675_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_364-1675_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="364-1675" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/364-1675_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>364/364-1675/Large</destinationRelativePath>
+            <AssetName>364-1675_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_364-1675_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="364-1675" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/364-1675_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>364/364-1675/Large</destinationRelativePath>
+            <AssetName>364-1675_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_364-1675_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="364-1675" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/364-1675_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>364/364-1675/Large</destinationRelativePath>
+            <AssetName>364-1675_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_364-1675_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="365-1910" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/365-1910_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>365/365-1910/Large</destinationRelativePath>
+            <AssetName>365-1910_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_365-1910_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="365-1910" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/365-1910_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>365/365-1910/Large</destinationRelativePath>
+            <AssetName>365-1910_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_365-1910_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="365-1910" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/365-1910_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>365/365-1910/Large</destinationRelativePath>
+            <AssetName>365-1910_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_365-1910_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="366-8144" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/366-8144_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>366/366-8144/Large</destinationRelativePath>
+            <AssetName>366-8144_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_366-8144_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="366-8144" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/366-8144_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>366/366-8144/Large</destinationRelativePath>
+            <AssetName>366-8144_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_366-8144_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="366-8144" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/366-8144_PI_66786AL4.JPEG</sourcePath>
+            <destinationRelativePath>366/366-8144/Large</destinationRelativePath>
+            <AssetName>366-8144_PI_66786AL4.JPEG</AssetName>
+            <OriginalName>P_366-8144_AL_secondary_4.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="366-8144" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/366-8144_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>366/366-8144/Large</destinationRelativePath>
+            <AssetName>366-8144_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_366-8144_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="366-8144" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/366-8144_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>366/366-8144/Large</destinationRelativePath>
+            <AssetName>366-8144_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_366-8144_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="381-5582" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/381-5582_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>381/381-5582/Large</destinationRelativePath>
+            <AssetName>381-5582_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_381-5582_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="381-5582" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/381-5582_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>381/381-5582/Large</destinationRelativePath>
+            <AssetName>381-5582_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_381-5582_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="381-5582" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/381-5582_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>381/381-5582/Large</destinationRelativePath>
+            <AssetName>381-5582_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_381-5582_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="381-5582" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/381-5582_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>381/381-5582/Large</destinationRelativePath>
+            <AssetName>381-5582_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_381-5582_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="381-5582" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/381-5582_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>381/381-5582/Large</destinationRelativePath>
+            <AssetName>381-5582_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_381-5582_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="381-5582" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/381-5582_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>381/381-5582/Large</destinationRelativePath>
+            <AssetName>381-5582_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_381-5582_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="396-2105" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/396-2105_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>396/396-2105/Large</destinationRelativePath>
+            <AssetName>396-2105_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_396-2105_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="396-2105" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/396-2105_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>396/396-2105/Large</destinationRelativePath>
+            <AssetName>396-2105_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_396-2105_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="397-0898" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/397-0898_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>397/397-0898/Large</destinationRelativePath>
+            <AssetName>397-0898_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_397-0898_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="397-0898" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/397-0898_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>397/397-0898/Large</destinationRelativePath>
+            <AssetName>397-0898_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_397-0898_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="397-0898" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/397-0898_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>397/397-0898/Large</destinationRelativePath>
+            <AssetName>397-0898_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_397-0898_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="410-4364" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/410-4364_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>410/410-4364/Large</destinationRelativePath>
+            <AssetName>410-4364_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_410-4364_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="410-4364" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/410-4364_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>410/410-4364/Large</destinationRelativePath>
+            <AssetName>410-4364_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_410-4364_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="410-4364" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/410-4364_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>410/410-4364/Large</destinationRelativePath>
+            <AssetName>410-4364_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_410-4364_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="420-4295" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/420-4295_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>420/420-4295/Large</destinationRelativePath>
+            <AssetName>420-4295_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_420-4295_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="420-4295" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/420-4295_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>420/420-4295/Large</destinationRelativePath>
+            <AssetName>420-4295_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_420-4295_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="420-4295" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/420-4295_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>420/420-4295/Large</destinationRelativePath>
+            <AssetName>420-4295_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_420-4295_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="437-7053" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/437-7053_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>437/437-7053/Large</destinationRelativePath>
+            <AssetName>437-7053_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_437-7053_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="437-7053" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/437-7053_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>437/437-7053/Large</destinationRelativePath>
+            <AssetName>437-7053_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_437-7053_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="437-7053" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/437-7053_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>437/437-7053/Large</destinationRelativePath>
+            <AssetName>437-7053_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_437-7053_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="439-8828" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/439-8828_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>439/439-8828/Large</destinationRelativePath>
+            <AssetName>439-8828_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_439-8828_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="439-8828" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/439-8828_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>439/439-8828/Large</destinationRelativePath>
+            <AssetName>439-8828_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_439-8828_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="452-5081" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/452-5081_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>452/452-5081/Large</destinationRelativePath>
+            <AssetName>452-5081_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_452-5081_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="452-5081" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/452-5081_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>452/452-5081/Large</destinationRelativePath>
+            <AssetName>452-5081_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_452-5081_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="452-5081" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/452-5081_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>452/452-5081/Large</destinationRelativePath>
+            <AssetName>452-5081_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_452-5081_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="452-5081" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/452-5081_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>452/452-5081/Large</destinationRelativePath>
+            <AssetName>452-5081_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_452-5081_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="452-5081" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/452-5081_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>452/452-5081/Large</destinationRelativePath>
+            <AssetName>452-5081_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_452-5081_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="452-5081" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/452-5081_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>452/452-5081/Large</destinationRelativePath>
+            <AssetName>452-5081_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_452-5081_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="463-5499" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/463-5499_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>463/463-5499/Large</destinationRelativePath>
+            <AssetName>463-5499_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_463-5499_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="463-5499" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/463-5499_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>463/463-5499/Large</destinationRelativePath>
+            <AssetName>463-5499_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_463-5499_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="463-5499" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/463-5499_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>463/463-5499/Large</destinationRelativePath>
+            <AssetName>463-5499_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_463-5499_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="463-5499" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/463-5499_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>463/463-5499/Large</destinationRelativePath>
+            <AssetName>463-5499_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_463-5499_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="471-7216" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/471-7216_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>471/471-7216/Large</destinationRelativePath>
+            <AssetName>471-7216_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_471-7216_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="471-7216" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/471-7216_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>471/471-7216/Large</destinationRelativePath>
+            <AssetName>471-7216_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_471-7216_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="471-7216" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/471-7216_PI_66786AL4.JPEG</sourcePath>
+            <destinationRelativePath>471/471-7216/Large</destinationRelativePath>
+            <AssetName>471-7216_PI_66786AL4.JPEG</AssetName>
+            <OriginalName>P_471-7216_AL_secondary_4.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="471-7216" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/471-7216_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>471/471-7216/Large</destinationRelativePath>
+            <AssetName>471-7216_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_471-7216_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="471-7216" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/471-7216_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>471/471-7216/Large</destinationRelativePath>
+            <AssetName>471-7216_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_471-7216_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="490-5017" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/490-5017_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>490/490-5017/Large</destinationRelativePath>
+            <AssetName>490-5017_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_490-5017_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="490-5017" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/490-5017_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>490/490-5017/Large</destinationRelativePath>
+            <AssetName>490-5017_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_490-5017_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="490-5017" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/490-5017_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>490/490-5017/Large</destinationRelativePath>
+            <AssetName>490-5017_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_490-5017_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-3196" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-3196_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>498/498-3196/Large</destinationRelativePath>
+            <AssetName>498-3196_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_498-3196_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-3196" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-3196_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>498/498-3196/Large</destinationRelativePath>
+            <AssetName>498-3196_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_498-3196_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-3196" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-3196_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>498/498-3196/Large</destinationRelativePath>
+            <AssetName>498-3196_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_498-3196_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-3196" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-3196_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>498/498-3196/Large</destinationRelativePath>
+            <AssetName>498-3196_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_498-3196_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-5696" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-5696_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>498/498-5696/Large</destinationRelativePath>
+            <AssetName>498-5696_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_498-5696_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-5696" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-5696_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>498/498-5696/Large</destinationRelativePath>
+            <AssetName>498-5696_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_498-5696_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-5696" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-5696_PI_66786AL4.JPEG</sourcePath>
+            <destinationRelativePath>498/498-5696/Large</destinationRelativePath>
+            <AssetName>498-5696_PI_66786AL4.JPEG</AssetName>
+            <OriginalName>P_498-5696_AL_secondary_4.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-5696" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-5696_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>498/498-5696/Large</destinationRelativePath>
+            <AssetName>498-5696_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_498-5696_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="498-5696" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/498-5696_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>498/498-5696/Large</destinationRelativePath>
+            <AssetName>498-5696_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_498-5696_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="500-0330" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/500-0330_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>500/500-0330/Large</destinationRelativePath>
+            <AssetName>500-0330_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_500-0330_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="500-0330" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/500-0330_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>500/500-0330/Large</destinationRelativePath>
+            <AssetName>500-0330_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_500-0330_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="500-0330" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/500-0330_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>500/500-0330/Large</destinationRelativePath>
+            <AssetName>500-0330_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_500-0330_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="500-0330" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/500-0330_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>500/500-0330/Large</destinationRelativePath>
+            <AssetName>500-0330_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_500-0330_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="500-0330" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/500-0330_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>500/500-0330/Large</destinationRelativePath>
+            <AssetName>500-0330_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_500-0330_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="500-0330" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/500-0330_PI_66786MN.JPG</sourcePath>
+            <destinationRelativePath>500/500-0330/Large</destinationRelativePath>
+            <AssetName>500-0330_PI_66786MN.JPG</AssetName>
+            <OriginalName>P_500-0330_MN.JPG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="504-6716" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/504-6716_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>504/504-6716/Large</destinationRelativePath>
+            <AssetName>504-6716_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_504-6716_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="504-6716" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/504-6716_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>504/504-6716/Large</destinationRelativePath>
+            <AssetName>504-6716_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_504-6716_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="504-6716" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/504-6716_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>504/504-6716/Large</destinationRelativePath>
+            <AssetName>504-6716_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_504-6716_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="504-6716" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/504-6716_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>504/504-6716/Large</destinationRelativePath>
+            <AssetName>504-6716_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_504-6716_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="504-6716" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/504-6716_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>504/504-6716/Large</destinationRelativePath>
+            <AssetName>504-6716_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_504-6716_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="504-6716" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/504-6716_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>504/504-6716/Large</destinationRelativePath>
+            <AssetName>504-6716_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_504-6716_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="521-8281" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/521-8281_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>521/521-8281/Large</destinationRelativePath>
+            <AssetName>521-8281_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_521-8281_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="521-8281" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/521-8281_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>521/521-8281/Large</destinationRelativePath>
+            <AssetName>521-8281_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_521-8281_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="521-8281" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/521-8281_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>521/521-8281/Large</destinationRelativePath>
+            <AssetName>521-8281_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_521-8281_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="521-8281" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/521-8281_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>521/521-8281/Large</destinationRelativePath>
+            <AssetName>521-8281_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_521-8281_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="522-8924" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/522-8924_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>522/522-8924/Large</destinationRelativePath>
+            <AssetName>522-8924_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_522-8924_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="522-8924" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/522-8924_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>522/522-8924/Large</destinationRelativePath>
+            <AssetName>522-8924_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_522-8924_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="531-0537" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/531-0537_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>531/531-0537/Large</destinationRelativePath>
+            <AssetName>531-0537_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_531-0537_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="531-0537" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/531-0537_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>531/531-0537/Large</destinationRelativePath>
+            <AssetName>531-0537_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_531-0537_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="531-0537" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/531-0537_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>531/531-0537/Large</destinationRelativePath>
+            <AssetName>531-0537_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_531-0537_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="531-0537" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/531-0537_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>531/531-0537/Large</destinationRelativePath>
+            <AssetName>531-0537_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_531-0537_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="531-0537" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/531-0537_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>531/531-0537/Large</destinationRelativePath>
+            <AssetName>531-0537_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_531-0537_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="531-0537" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/531-0537_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>531/531-0537/Large</destinationRelativePath>
+            <AssetName>531-0537_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_531-0537_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="535-1772" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/535-1772_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>535/535-1772/Large</destinationRelativePath>
+            <AssetName>535-1772_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_535-1772_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="535-1772" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/535-1772_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>535/535-1772/Large</destinationRelativePath>
+            <AssetName>535-1772_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_535-1772_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="535-1772" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/535-1772_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>535/535-1772/Large</destinationRelativePath>
+            <AssetName>535-1772_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_535-1772_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="550-5848" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/550-5848_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>550/550-5848/Large</destinationRelativePath>
+            <AssetName>550-5848_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_550-5848_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="550-5848" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/550-5848_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>550/550-5848/Large</destinationRelativePath>
+            <AssetName>550-5848_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_550-5848_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="550-5848" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/550-5848_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>550/550-5848/Large</destinationRelativePath>
+            <AssetName>550-5848_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_550-5848_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="550-5848" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/550-5848_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>550/550-5848/Large</destinationRelativePath>
+            <AssetName>550-5848_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_550-5848_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="550-5848" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/550-5848_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>550/550-5848/Large</destinationRelativePath>
+            <AssetName>550-5848_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_550-5848_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="550-5848" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/550-5848_PI_66786MN.JPG</sourcePath>
+            <destinationRelativePath>550/550-5848/Large</destinationRelativePath>
+            <AssetName>550-5848_PI_66786MN.JPG</AssetName>
+            <OriginalName>P_550-5848_MN.JPG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="568-9240" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/568-9240_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>568/568-9240/Large</destinationRelativePath>
+            <AssetName>568-9240_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_568-9240_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="568-9240" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/568-9240_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>568/568-9240/Large</destinationRelativePath>
+            <AssetName>568-9240_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_568-9240_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="568-9240" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/568-9240_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>568/568-9240/Large</destinationRelativePath>
+            <AssetName>568-9240_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_568-9240_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="590-9275" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/590-9275_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>590/590-9275/Large</destinationRelativePath>
+            <AssetName>590-9275_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_590-9275_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="590-9275" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/590-9275_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>590/590-9275/Large</destinationRelativePath>
+            <AssetName>590-9275_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_590-9275_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="590-9275" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/590-9275_PI_66786AL4.JPEG</sourcePath>
+            <destinationRelativePath>590/590-9275/Large</destinationRelativePath>
+            <AssetName>590-9275_PI_66786AL4.JPEG</AssetName>
+            <OriginalName>P_590-9275_AL_secondary_4.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="590-9275" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/590-9275_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>590/590-9275/Large</destinationRelativePath>
+            <AssetName>590-9275_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_590-9275_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="590-9275" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/590-9275_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>590/590-9275/Large</destinationRelativePath>
+            <AssetName>590-9275_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_590-9275_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="614-5682" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/614-5682_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>614/614-5682/Large</destinationRelativePath>
+            <AssetName>614-5682_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_614-5682_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="614-5682" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/614-5682_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>614/614-5682/Large</destinationRelativePath>
+            <AssetName>614-5682_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_614-5682_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="614-5682" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/614-5682_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>614/614-5682/Large</destinationRelativePath>
+            <AssetName>614-5682_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_614-5682_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="614-5682" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/614-5682_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>614/614-5682/Large</destinationRelativePath>
+            <AssetName>614-5682_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_614-5682_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="614-5682" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/614-5682_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>614/614-5682/Large</destinationRelativePath>
+            <AssetName>614-5682_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_614-5682_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="614-5682" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/614-5682_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>614/614-5682/Large</destinationRelativePath>
+            <AssetName>614-5682_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_614-5682_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="618-1584" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/618-1584_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>618/618-1584/Large</destinationRelativePath>
+            <AssetName>618-1584_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_618-1584_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="618-1584" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/618-1584_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>618/618-1584/Large</destinationRelativePath>
+            <AssetName>618-1584_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_618-1584_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="618-1584" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/618-1584_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>618/618-1584/Large</destinationRelativePath>
+            <AssetName>618-1584_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_618-1584_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="618-7488" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/618-7488_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>618/618-7488/Large</destinationRelativePath>
+            <AssetName>618-7488_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_618-7488_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="618-7488" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/618-7488_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>618/618-7488/Large</destinationRelativePath>
+            <AssetName>618-7488_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_618-7488_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="671-1626" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/671-1626_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>671/671-1626/Large</destinationRelativePath>
+            <AssetName>671-1626_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_671-1626_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="671-1626" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/671-1626_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>671/671-1626/Large</destinationRelativePath>
+            <AssetName>671-1626_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_671-1626_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="671-1626" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/671-1626_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>671/671-1626/Large</destinationRelativePath>
+            <AssetName>671-1626_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_671-1626_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="671-1626" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/671-1626_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>671/671-1626/Large</destinationRelativePath>
+            <AssetName>671-1626_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_671-1626_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="671-1626" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/671-1626_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>671/671-1626/Large</destinationRelativePath>
+            <AssetName>671-1626_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_671-1626_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="671-1626" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/671-1626_PI_66786MN.JPG</sourcePath>
+            <destinationRelativePath>671/671-1626/Large</destinationRelativePath>
+            <AssetName>671-1626_PI_66786MN.JPG</AssetName>
+            <OriginalName>P_671-1626_MN.JPG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="711-2899" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/711-2899_PI_66786AL2.JPEG</sourcePath>
+            <destinationRelativePath>711/711-2899/Large</destinationRelativePath>
+            <AssetName>711-2899_PI_66786AL2.JPEG</AssetName>
+            <OriginalName>P_711-2899_AL_secondary_2.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="711-2899" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/711-2899_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>711/711-2899/Large</destinationRelativePath>
+            <AssetName>711-2899_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_711-2899_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="711-2899" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/711-2899_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>711/711-2899/Large</destinationRelativePath>
+            <AssetName>711-2899_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_711-2899_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="747-2110" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/747-2110_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>747/747-2110/Large</destinationRelativePath>
+            <AssetName>747-2110_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_747-2110_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="747-2110" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/747-2110_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>747/747-2110/Large</destinationRelativePath>
+            <AssetName>747-2110_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_747-2110_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="747-2110" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/747-2110_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>747/747-2110/Large</destinationRelativePath>
+            <AssetName>747-2110_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_747-2110_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="761-5307" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/761-5307_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>761/761-5307/Large</destinationRelativePath>
+            <AssetName>761-5307_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_761-5307_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="761-5307" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/761-5307_PI_66786AL3.JPEG</sourcePath>
+            <destinationRelativePath>761/761-5307/Large</destinationRelativePath>
+            <AssetName>761-5307_PI_66786AL3.JPEG</AssetName>
+            <OriginalName>P_761-5307_AL_secondary_3.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="761-5307" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/761-5307_PI_66786AL4.JPG</sourcePath>
+            <destinationRelativePath>761/761-5307/Large</destinationRelativePath>
+            <AssetName>761-5307_PI_66786AL4.JPG</AssetName>
+            <OriginalName>P_761-5307_AL_secondary_4.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="761-5307" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/761-5307_PI_66786AL5.JPEG</sourcePath>
+            <destinationRelativePath>761/761-5307/Large</destinationRelativePath>
+            <AssetName>761-5307_PI_66786AL5.JPEG</AssetName>
+            <OriginalName>P_761-5307_AL_secondary_5.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="761-5307" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/761-5307_PI_66786AL6.JPEG</sourcePath>
+            <destinationRelativePath>761/761-5307/Large</destinationRelativePath>
+            <AssetName>761-5307_PI_66786AL6.JPEG</AssetName>
+            <OriginalName>P_761-5307_AL_secondary_6.JPEG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="761-5307" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/761-5307_PI_66786MN.JPG</sourcePath>
+            <destinationRelativePath>761/761-5307/Large</destinationRelativePath>
+            <AssetName>761-5307_PI_66786MN.JPG</AssetName>
+            <OriginalName>P_761-5307_MN.JPG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="767-8939" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/767-8939_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>767/767-8939/Large</destinationRelativePath>
+            <AssetName>767-8939_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_767-8939_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="767-8939" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/767-8939_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>767/767-8939/Large</destinationRelativePath>
+            <AssetName>767-8939_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_767-8939_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="769-1432" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/769-1432_PI_66786AL2.JPG</sourcePath>
+            <destinationRelativePath>769/769-1432/Large</destinationRelativePath>
+            <AssetName>769-1432_PI_66786AL2.JPG</AssetName>
+            <OriginalName>P_769-1432_AL_secondary_2.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="769-1432" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/769-1432_PI_66786AL3.JPG</sourcePath>
+            <destinationRelativePath>769/769-1432/Large</destinationRelativePath>
+            <AssetName>769-1432_PI_66786AL3.JPG</AssetName>
+            <OriginalName>P_769-1432_AL_secondary_3.JPG</OriginalName>
+            <DefaultImage>N</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>AL</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+        <asset id="769-1432" type="ProductAssets">
+            <assetStatus>ADD</assetStatus>
+            <sourcePath>CA63356A-6C7B-41AB-9A79-346ED9DD62CB/TSC-66786-PLMED-16082016-000021/769-1432_PI_66786MN.JPEG</sourcePath>
+            <destinationRelativePath>769/769-1432/Large</destinationRelativePath>
+            <AssetName>769-1432_PI_66786MN.JPEG</AssetName>
+            <OriginalName>P_769-1432_MN.JPEG</OriginalName>
+            <DefaultImage>Y</DefaultImage>
+            <Host>SUP</Host>
+            <metadata>
+                <ImageType>Large</ImageType>
+                <Shot>MN</Shot>
+                <Copyright/>
+                <productname/>
+                <category>Clothing</category>
+                <SubCategory>Fashion &amp; Sports Clothing</SubCategory>
+                <ImageStore>Scene 7</ImageStore>
+                <Scene7>true</Scene7>
+            </metadata>
+        </asset>
+    </assets>
+</ProductAssets>
