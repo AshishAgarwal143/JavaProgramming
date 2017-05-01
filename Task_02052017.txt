@@ -1,0 +1,42 @@
+Math class
+Take input from user 2 numbers and perform the following operations.(explore all the classes for input taking ) 
+
+1)calc Add
+2)power to n
+3)ceil
+4)floor
+5)sqrt
+6)modulus
+7)log
+8)max
+9)min
+
+
+Date Class and calendar ----current date and time 
+
+7.	Perform the following operation on the Date class
+i.	construct a new date object
+ii.	 construct another date object with a timestamp
+iii.	 display the contents of the two date objects  by concatenating them to a string in a println() 
+iv.	determine whether the first date occurs after the second
+v.	 determine whether the first date occurs before the second
+vi.	 compare the two dates
+vii.	 display the timestamp of the first date object 
+viii.	 change the timestamp of the first object
+ix.	 display the first date object
+
+
+
+8.	Perform the following operations on the Calendar class
+i.	 declare a Calendar class reference
+ii.	 construct an instance of the GregorianCalendar by using a factory method from the Calendar class
+iii.	 retrieve an instance of Date
+iv.	display the date
+v.	retrieve the timestamp
+vi.	 add 10 days to the Calendar instance
+vii.	 retrieve and display the date
+viii.	 determine the month, year and week of the year
+ix.	 roll the calender a year forward
+x.	 retrieve and display the date
+
+

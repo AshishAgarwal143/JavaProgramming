@@ -1,0 +1,17 @@
+BUBBLE SORT and SELECTION SORT
+
+Take a string
+Hint: Convert it into char array 
+a)WAP to compute string length function similar to length() of string.
+b)WAP to compute substring of String  similar to substring function
+c)WAP to  compute indexOf similar to string indexOf
+d)concat
+e)CharAt
+f)contains - - -- Need to understand 
+e)toLowerCase
+f)toUpperCase
+g)lastIndexOf
+h)replace
+
+
+NEED to ask program3 in assignment.
